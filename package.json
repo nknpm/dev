@@ -1,0 +1,32 @@
+{
+  "name": "nkdev",
+  "description": "NK development utilities",
+  "version": "0.0.0",
+  "homepage": "http://nkwebdev.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nketchum/node/nkdev.git"
+  },
+  "author": {
+    "name": "Nicholas Ketchum",
+    "email": "nketchum@gmail.com",
+    "url": "http://nkwebdev.com/"
+  },
+  "tags": [
+    "development"
+  ],
+  "files": [
+    "nkdev.js"
+  ],
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "maintainers": [
+    {
+      "name": "Nicholas Ketchum",
+      "email": "nketchum@gmail.com"
+    }
+  ]
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
