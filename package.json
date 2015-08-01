@@ -5,7 +5,7 @@
   "homepage": "http://nkwebdev.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nketchum/node/nkdev.git"
+    "url": "git+https://github.com/nknpm/nkdev.git"
   },
   "author": {
     "name": "Nicholas Ketchum",
