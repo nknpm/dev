@@ -16,7 +16,7 @@
     "development"
   ],
   "files": [
-    "nkdev.js"
+    "index.js"
   ],
   "engines": {
     "node": ">= 0.9"
@@ -26,7 +26,5 @@
       "name": "Nicholas Ketchum",
       "email": "nketchum@gmail.com"
     }
-  ],
-  "directories": {},
-  "readme": "ERROR: No README data found!"
+  ]
 }
