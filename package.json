@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/nknpm/nkdev.git"
   },
+  "scripts": {
+    "test": "nkfind nkfind.js"
+  },
   "author": {
     "name": "Nicholas Ketchum",
     "email": "nketchum@gmail.com",
@@ -20,6 +23,10 @@
   ],
   "engines": {
     "node": ">= 0.9"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "nkfind": "bin/nkfind.js"
   },
   "maintainers": [
     {

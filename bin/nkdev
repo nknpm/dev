@@ -1,9 +1,0 @@
-#!/usr/bin/env node
-
-"use strict";
-
-var nkdev = function() {
-  console.log('Success: "nkdev" found.');
-}
-
-nkdev();
