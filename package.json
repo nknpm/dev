@@ -1,14 +1,14 @@
 {
-  "name": "nkdev",
-  "description": "NK development utilities",
-  "version": "0.0.0",
+  "name": "nk-dev",
+  "description": "Experimental dev tools by NK",
+  "version": "0.0.1",
   "homepage": "http://nkwebdev.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nknpm/nkdev.git"
+    "url": "git+https://github.com/nknpm/dev.git"
   },
   "scripts": {
-    "test": "./bin/nkfind.js package"
+    "test": "echo 'No tests configured.'"
   },
   "author": {
     "name": "Nicholas Ketchum",
@@ -16,22 +16,25 @@
     "url": "http://nkwebdev.com/"
   },
   "tags": [
-    "development"
+    "development",
+    "experimental"
   ],
-  "files": [
-    "index.js"
+  "main": [
+    "dev.js"
   ],
   "engines": {
     "node": ">= 0.9"
   },
   "preferGlobal": "true",
   "bin": {
-    "nkfind": "bin/nkfind.js"
+    "devfind": "bin/devfind.js"
   },
   "maintainers": [
     {
       "name": "Nicholas Ketchum",
       "email": "nketchum@gmail.com"
     }
-  ]
+  ],
+  "license": "MIT",
+  "readme": "README.md"
 }
