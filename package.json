@@ -8,7 +8,7 @@
     "url": "git+https://github.com/nknpm/nkdev.git"
   },
   "scripts": {
-    "test": "nkfind nkfind.js"
+    "test": "./bin/nkfind.js package"
   },
   "author": {
     "name": "Nicholas Ketchum",
