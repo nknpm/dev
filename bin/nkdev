@@ -2,8 +2,8 @@
 
 "use strict";
 
-var utils = {
-  l: console.log
+var nkdev = function() {
+  console.log('Success: "nkdev" found.');
 }
 
-module.exports = utils;
+nkdev();
