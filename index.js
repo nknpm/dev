@@ -1,7 +1,7 @@
 "use strict";
 
-module.exports =  utils
-
 var utils = {
-  l: console.log
+  l: console.log;
 }
+
+module.exports = utils;
