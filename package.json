@@ -19,9 +19,7 @@
     "development",
     "experimental"
   ],
-  "main": [
-    "dev.js"
-  ],
+  "main": "dev.js",
   "engines": {
     "node": ">= 0.9"
   },
